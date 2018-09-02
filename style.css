@@ -1,0 +1,28 @@
+body{
+background-image:url(wallpaper.jpg);
+padding:5%;
+}
+#photo{
+  float: left;
+padding:3%;
+}
+#personal-info{
+padding:3%;
+  background-color:grey;
+}
+#I-am{
+  background-color:lightblue;
+  padding:3%;
+}
+#education{
+  background-color:grey;
+  padding:3%;
+}
+#we{
+  background-color:lightblue;
+  padding:3%;
+}
+#wh{
+  background-color:grey;
+  padding:3%;
+}
